@@ -1,0 +1,6 @@
+/.idea/
+/iac/.credentials
+/iac/.kubeconfig
+/iac/.terraform*
+/iac/settings.json
+/iac/terraform.tfstate*
