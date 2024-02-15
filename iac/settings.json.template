@@ -1,0 +1,8 @@
+{
+  "id": "opentelemetry",
+  "tags": [ "observability" ],
+  "infrastructure": {
+    "type": "g7-premium-4",
+    "region": "us-iad"
+  }
+}
